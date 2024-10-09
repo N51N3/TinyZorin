@@ -9,7 +9,7 @@ You're encouraged to do these three things;
 Do the following on your computer;  
 
 <details>  
-  <summary>Check for Update</summary> 
+  <summary>Prerequisite</summary> 
 </details>
 <details>  
   <summary>Install ZorinOS</summary>  
