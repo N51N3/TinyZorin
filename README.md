@@ -10,7 +10,9 @@ Do the following on your computer;
 <details> <summary>Install ZorinOS</summary>  
   <ul>   
     <li>Download the ISO file <a href="https://zorin.com/os/download">here</a></li>  
-    <li>Create a <a href="https://zorin.com/os/download">bootable USB drive</a> using Rufus. <a href="https://zorin.com/os/download">see how</a></li>  
-    <li>Third bullet point</li>  
+    <li>Create a <a href="https://zorin.com/os/download">bootable USB drive</a> using Rufus. <a href="https://zorin.com/os/download">see how</a></li>    
   </ul>  
-</details>
+</details> 
+
+## Update Installations  
+
