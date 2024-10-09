@@ -6,13 +6,25 @@ You're encouraged to do these three things;
 - Share this project
 
 ## Get Started  
-Do the following on your computer;
-<details> <summary>Install ZorinOS</summary>  
+Do the following on your computer;  
+
+<details>  
+  <summary>Install ZorinOS</summary>  
   <ul>   
-    <li>Download the ISO file <a href="https://zorin.com/os/download">here</a></li>  
-    <li>Create a <a href="https://zorin.com/os/download">bootable USB drive</a> using Rufus. <a href="https://zorin.com/os/download">see how</a></li>    
+    <li>Download the ISO file <a href="https://zorin.com/os/download">here.</a></li>  
+    <li>Create a <a href="https://zorin.com/os/download">bootable USB drive</a> using Rufus. <a href="https://zorin.com/os/download">See how.</a></li>    
   </ul>  
 </details> 
 
 ## Update Installations  
+Update everything to the latest version;  
 
+<details>  
+  <summary>Check for Update</summary> 
+</details>  
+<details>  
+  <summary>Update Packages</summary> 
+</details>  
+<details>  
+  <summary>Update Drivers</summary> 
+</details>
