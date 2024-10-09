@@ -17,7 +17,7 @@ Do the following on your computer;
 </details> 
 
 ## Update Installations  
-Update everything to the latest version through the Zorin's GUI or Terminal;  
+Update everything to the latest version through Zorin's GUI or Terminal;  
 
 <details>  
   <summary>Check for Update</summary> 
