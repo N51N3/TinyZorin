@@ -4,3 +4,7 @@ You're encouraged to do these three things;
 - Make a [donation](https://selar.co/showlove/tinyzorin)
 - Send a [suggestion & Feedback](https://t.me/n51n3)
 - Share this project
+
+# Get Started  
+<details> <summary>Install ZorinOS</summary> This is the text inside the dropdown. </details>
+
