@@ -5,8 +5,7 @@ You're encouraged to do these three things;
 - Send a [suggestion & Feedback](https://t.me/n51n3)
 - Share this project
 
-# Get Started  
-This is a dunny small text example to shos how this text will look like in production.
+## Get Started  
 <details> <summary>Install ZorinOS</summary>  
   <ul>   
     <li>Install the ISO file <a href="https://zorin.com/os/download">here</a></li>  
