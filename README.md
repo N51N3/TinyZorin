@@ -9,6 +9,9 @@ You're encouraged to do these three things;
 Do the following on your computer;  
 
 <details>  
+  <summary>Check for Update</summary> 
+</details>
+<details>  
   <summary>Install ZorinOS</summary>  
   <ul>   
     <li>Download the ISO file <a href="https://zorin.com/os/download">here.</a></li>  
