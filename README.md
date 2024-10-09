@@ -6,4 +6,10 @@ You're encouraged to do these three things;
 - Share this project
 
 # Get Started  
-<details> <summary>Install ZorinOS</summary> <ul> <li>Install the ISO file heret</li> <li>Burn to a USB drive using Rufus</li> <li>Third bullet point</li> </ul> </details>
+<details> <summary>Install ZorinOS</summary>  
+  <ul>   
+    <li>Install the ISO file <a href="https://zorin.com/os/download">here</a></li>  
+    <li>Burn to a USB drive using Rufus</li>  
+    <li>Third bullet point</li>   
+  </ul>  
+</details>
