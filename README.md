@@ -1,2 +1,2 @@
 # TinyZorin
-A beginner's guide on the first few things to do on your freshly installed ZorinOS.
+I am an absolute Linux beginner, and this is a living document constantly updated with the new things I've learnt and done on my freshly installed ZorinOS for other new beginners to improve their desktop computers.
