@@ -6,6 +6,7 @@ You're encouraged to do these three things;
 - Share this project
 
 # Get Started  
+This is a dunny small text example to shos how this text will look like in production.
 <details> <summary>Install ZorinOS</summary>  
   <ul>   
     <li>Install the ISO file <a href="https://zorin.com/os/download">here</a></li>  
