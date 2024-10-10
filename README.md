@@ -38,10 +38,13 @@ Update everything to the latest version through Zorin's GUI or copy the commands
 ## Tweaks & Customization  
 ## System Optimization
 ## Install Apps & Packages  
-Software packages with beautiful UI that I use and would recommend;  
+ZorinOS comes with a built-in Software store and here are packages with a beautiful UI that I use and recommend;  
 <details>  
   <summary>Media & Entertainment</summary> 
 </details>  
 <details>  
   <summary>Productivity</summary> 
-</details> 
+</details>  
+<details>  
+  <summary>Personalisation</summary> 
+</details>
