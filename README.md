@@ -38,5 +38,10 @@ Update everything to the latest version through Zorin's GUI or copy the commands
 ## Tweaks & Customization  
 ## System Optimization
 ## Install Apps & Packages  
-Software Packages with beautiful UI that I use and would recommend;
-
+Software packages with beautiful UI that I use and would recommend;  
+<details>  
+  <summary>Media & Entertainment</summary> 
+</details>  
+<details>  
+  <summary>Productivity</summary> 
+</details> 
