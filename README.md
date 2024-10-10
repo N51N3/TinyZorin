@@ -20,7 +20,7 @@ Do the following on your computer;
 </details> 
 
 ## Update Installations  
-Update everything to the latest version through Zorin's GUI or copy the commands and run in Terminal;  
+Update everything to the latest version through Zorin's GUI or copy the commands and run them in Terminal;  
 
 <details>  
   <summary>Check for Update(GUI)</summary> 
@@ -37,4 +37,6 @@ Update everything to the latest version through Zorin's GUI or copy the commands
 
 ## Tweaks & Customization  
 ## System Optimization
-## Install Apps & Packages 
+## Install Apps & Packages  
+Software Packages with beautiful UI that I use and would recommend;
+
