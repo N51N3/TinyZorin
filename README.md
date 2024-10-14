@@ -38,13 +38,16 @@ Update everything to the latest version through Zorin's GUI or copy the commands
 ## Tweaks & Customization  
 ## System Optimization
 ## Install Apps & Packages  
-ZorinOS comes with a built-in Software store and here are packages with a beautiful UI that I use and recommend;  
+ZorinOS comes with a built-in Software store and here are packages with beautiful UIs that I use and recommend;  
+<details>  
+  <summary>Productivity</summary>  
+    <ul>   
+      <li> <a href="https://zorin.com/os/download">Floorp</a>: Download the ISO file. </li>  
+  </ul> 
+</details>  
 <details>  
   <summary>Media & Entertainment</summary> 
-</details>  
-<details>  
-  <summary>Productivity</summary> 
-</details>  
+</details>    
 <details>  
   <summary>Personalisation</summary> 
 </details>
