@@ -6,21 +6,27 @@ You're encouraged to do these three things;
 - Share this project
 
 ## Get Started  
-Do the following on your computer;  
+Do the following on your computer;
 
 <details>  
-  <summary>Prerequisite</summary> 
-</details>
+  <summary>Prerequisite</summary>  
+  <ul>   
+    <li>Backup your files in an external drive</li>  
+    <li>Check system requirements & hardware compatibility <a href="https://help.zorin.com/docs/getting-started/system-requirements">here.</a></li>  
+  </ul>  
+</details>  
+
 <details>  
   <summary>Install ZorinOS</summary>  
-  <ul>   
-    <li>Download the ISO file <a href="https://zorin.com/os/download">here.</a></li>  
-    <li>Create a <a href="https://zorin.com/os/download">bootable USB drive</a> using Rufus. <a href="https://zorin.com/os/download">See how.</a></li>    
+  <ul>  
+    <li>Follow this guide on <a href="https://help.zorin.com/docs/getting-started/install-zorin-os/">how to install ZorinOS.</a></li>
+    <li>For visual learners, here's a <a href="https://zorin.com/os/download">video guide</a></li>    
   </ul>  
-</details> 
+</details>
+ 
 
 ## Update Installations  
-Update everything to the latest version through Zorin's GUI or copy the commands and run them in Terminal;  
+After installation, update everything to the latest version through Zorin's GUI or copy the commands and run them in Terminal;  
 
 <details>  
   <summary>Check for Update(GUI)</summary> 
@@ -40,10 +46,11 @@ Update everything to the latest version through Zorin's GUI or copy the commands
 ## Install Apps & Packages  
 ZorinOS comes with a built-in Software store and here are packages with beautiful UIs that I use and recommend;  
 <details>  
-  <summary>Productivity</summary>  
+  <summary>Floorp</summary>  
     <ul>   
-      <li> <a href="https://zorin.com/os/download">Floorp</a>: Download the ISO file. </li>  
-  </ul> 
+      <li>Download the ISO file.</li>
+      <li> <a href="https://zorin.com/os/download">Download</a></li>
+    </ul> 
 </details>  
 <details>  
   <summary>Media & Entertainment</summary> 
