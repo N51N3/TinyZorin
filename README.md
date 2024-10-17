@@ -46,15 +46,9 @@ After installation, update everything to the latest version through Zorin's GUI 
 ## Install Apps & Packages  
 ZorinOS comes with a built-in Software Store and here are packages with beautiful UIs that I use and recommend;  
 <details>  
-  <summary>Floorp</summary>  
+  <summary>Floorp Browswer</summary>  
     <ul>   
       <li>A fast, lightweight and privacy-respecting browser based on Firefox.</li>
       <li> <a href="https://zorin.com/os/download">Download</a></li>
     </ul> 
-</details>  
-<details>  
-  <summary>Media & Entertainment</summary> 
-</details>    
-<details>  
-  <summary>Personalisation</summary> 
 </details>
