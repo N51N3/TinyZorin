@@ -44,7 +44,7 @@ After installation, update everything to the latest version through Zorin's GUI 
 ## Tweaks & Customization  
 ## System Optimization
 ## Install Apps & Packages  
-ZorinOS comes with a built-in Software store and here are packages with beautiful UIs that I use and recommend;  
+ZorinOS comes with a built-in Software Store and here are packages with beautiful UIs that I use and recommend;  
 <details>  
   <summary>Floorp</summary>  
     <ul>   
