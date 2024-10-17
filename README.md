@@ -48,7 +48,7 @@ ZorinOS comes with a built-in Software store and here are packages with beautifu
 <details>  
   <summary>Floorp</summary>  
     <ul>   
-      <li>Download the ISO file.</li>
+      <li>A fast, lightweight and privacy-respecting browser based on Firefox.</li>
       <li> <a href="https://zorin.com/os/download">Download</a></li>
     </ul> 
 </details>  
