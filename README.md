@@ -54,6 +54,16 @@ After installation, update everything to the latest version through Zorin's GUI 
 </details>  
 
 ## System Optimization  
+Settings to Improve performance, efficiency, and overall functions of your computer.  
+
+<details>  
+  <summary>Update Packages</summary> 
+</details> 
+<details>  
+  <summary>Update Drivers</summary> 
+</details>  
+
+
 ## Tweaks & Customization  
 ## Install Apps & Packages  
 ZorinOS comes with a built-in Software Store and here are packages with beautiful UIs that I use and recommend;  
