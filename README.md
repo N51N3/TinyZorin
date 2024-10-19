@@ -58,9 +58,6 @@ Settings to Improve performance, efficiency, and overall functions of your compu
 
 <details>  
   <summary>Update Packages</summary> 
-</details> 
-<details>  
-  <summary>Update Drivers</summary> 
 </details>  
 
 
