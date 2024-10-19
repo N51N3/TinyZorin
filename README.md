@@ -40,7 +40,7 @@ After installation, update everything to the latest version through Zorin's GUI 
 <details>  
   <summary>Update Through <strong>Terminal</strong></summary>  
    <ul>  
-    <li><code>sudo apt update</code> + <code>enter</code> to check for updates then press</li>
+    <li><code>sudo apt update</code> + <code>enter</code> to check for updates</li>
     <li><code>sudo apt upgrade</code> + <code>enter</code> to apply the updates</li> 
     <li>Restart your computer</li>
   </ul> 
