@@ -37,17 +37,22 @@ After installation, update everything to the latest version through Zorin's GUI 
 </details>  
 
 <details>  
-  <summary>Check for Update(Terminal)</summary> 
-</details>
+  <summary>Update Through <strong>Terminal</strong></summary>  
+   <ul>  
+    <li><code>sudo apt update</code> to check for updates</li>
+    <li><code>sudo apt upgrade</code> to apply the updates</li> 
+  </ul> 
+</details>  
+
 <details>  
   <summary>Update Packages</summary> 
-</details>  
+</details> 
 <details>  
   <summary>Update Drivers</summary> 
 </details>  
 
+## System Optimization  
 ## Tweaks & Customization  
-## System Optimization
 ## Install Apps & Packages  
 ZorinOS comes with a built-in Software Store and here are packages with beautiful UIs that I use and recommend;  
 <details>  
