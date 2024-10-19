@@ -20,7 +20,7 @@ Do the following on your computer;
   <summary>Install ZorinOS</summary>  
   <ul>  
     <li>Follow this guide on <a href="https://help.zorin.com/docs/getting-started/install-zorin-os/">how to install ZorinOS.</a></li>
-    <li>For visual learners, here's a <a href="https://zorin.com/os/download">video guide</a></li>    
+    <li>For visual learners, here's a <a href="https://www.youtube.com/watch?v=sA3igThg1qc">video guide</a></li>    
   </ul>  
 </details>
  
@@ -29,8 +29,13 @@ Do the following on your computer;
 After installation, update everything to the latest version through Zorin's GUI or copy the commands and run them in Terminal;  
 
 <details>  
-  <summary>Check for Update(GUI)</summary> 
+  <summary>Check for Update(GUI)</summary>  
+  <ul>  
+    <li>Go into the Software Store and click on <strong>Update</strong>.</li>
+    <li>For visual learners, here's a <a href="https://www.youtube.com/watch?v=sA3igThg1qc">video guide</a></li>    
+  </ul>  
 </details>  
+
 <details>  
   <summary>Check for Update(Terminal)</summary> 
 </details>
@@ -48,7 +53,15 @@ ZorinOS comes with a built-in Software Store and here are packages with beautifu
 <details>  
   <summary>Floorp Browswer</summary>  
     <ul>   
-      <li>A fast, lightweight and privacy-respecting browser based on Firefox.</li>
+      <li>A fast, lightweight open-source browser with a focus on privacy and customization based on Firefox.</li>
+      <li> <a href="https://zorin.com/os/download">Download</a></li>
+    </ul> 
+</details>  
+
+<details>  
+  <summary>Floorp Browswer</summary>  
+    <ul>   
+      <li>A fast, lightweight open-source browser with a focus on privacy and customization based on Firefox.</li>
       <li> <a href="https://zorin.com/os/download">Download</a></li>
     </ul> 
 </details>
