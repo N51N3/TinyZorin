@@ -31,8 +31,9 @@ After installation, update everything to the latest version through Zorin's GUI 
 <details>  
   <summary>Check for Update(GUI)</summary>  
   <ul>  
-    <li>Go into the Software Store and click on <strong>Update</strong>.</li>
-    <li>For visual learners, here's a <a href="https://www.youtube.com/watch?v=sA3igThg1qc">video guide</a></li>    
+    <li>Go into the Software Store and click on <strong>Software & Update</strong>.</li>  
+    <li>Click on <strong>Other Software</strong> then turn on <strong>Canonical Partners</strong>.</li>
+    <li>A pop-up will appear. Click <strong>Close</strong>.</li>
   </ul>  
 </details>  
 
