@@ -57,7 +57,10 @@ After installation, update everything to the latest version through Zorin's GUI 
 Settings to Improve performance, efficiency, and overall functions of your computer.  
 
 <details>  
-  <summary>Update Packages</summary> 
+  <summary>Intall Ubuntu Restricted Extras</summary>  
+  <ul>  
+    <li>This enable support for a wide range of multimedia formats and proprietary tools like codecs, libraries and Plugins on your computer</li>  
+    <li><code>sudo apt install ubuntu-restricted-extras</code> + <code>enter</code> to install</li>
 </details>  
 
 
