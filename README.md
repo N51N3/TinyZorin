@@ -89,8 +89,8 @@ Settings to Improve performance, efficiency, and overall functions of your compu
 <details>  
   <summary>Improve Battery Life</summary>  
   <ul>   
-      <li>TLP is a power management tool designed to optimize battery life on laptops.</li>  
-      <li>code>sudo apt install tlp</code> + <code>enter</code> to install</li>  
+      <li>TLP is a power management tool designed to optimize the battery life on your laptop.</li>  
+      <li><code>sudo apt install tlp</code> + <code>enter</code> to install</li>  
       <li>Restart your computer</li>
  </ul> 
 </details>
