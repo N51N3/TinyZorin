@@ -29,9 +29,9 @@ Do the following on your computer;
 After installation, update everything to the latest version through Zorin's GUI or copy the commands and run them in Terminal;  
 
 <details>  
-  <summary>Check for Update(GUI)</summary>  
+  <summary>Before Updating</summary>  
   <ul>  
-    <li>Go into the Software Store and click on <strong>Software & Update</strong>.</li>  
+    <li>Go into the Software Store and click on <strong>Software & Updates</strong>.</li>  
     <li>Click on <strong>Other Software</strong> then turn on <strong>Canonical Partners</strong>.</li>
     <li>A pop-up will appear. Click <strong>Close</strong>.</li>
   </ul>  
@@ -42,6 +42,7 @@ After installation, update everything to the latest version through Zorin's GUI 
    <ul>  
     <li><code>sudo apt update</code> to check for updates</li>
     <li><code>sudo apt upgrade</code> to apply the updates</li> 
+    <li>Restart your computer</li>
   </ul> 
 </details>  
 
