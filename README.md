@@ -99,7 +99,8 @@ Settings to Improve performance, efficiency, and overall functions of your compu
 ## Install Apps & Packages  
 ZorinOS comes with a built-in Software Store and here are packages with beautiful UIs that I use and recommend;  
 <details>  
-  <summary>Floorp Browswer</summary>  
+  
+  <summary>Floorp</summary>  
     <ul>   
       <li>A fast, lightweight open-source browser with a focus on privacy and customization based on Firefox.</li>
       <li> <a href="https://zorin.com/os/download">Download</a></li>
@@ -107,7 +108,7 @@ ZorinOS comes with a built-in Software Store and here are packages with beautifu
 </details>  
 
 <details>  
-  <summary>Floorp Browswer</summary>  
+  <summary>Obsidian</summary>  
     <ul>   
       <li>A fast, lightweight open-source browser with a focus on privacy and customization based on Firefox.</li>
       <li> <a href="https://zorin.com/os/download">Download</a></li>
