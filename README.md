@@ -59,17 +59,41 @@ Settings to Improve performance, efficiency, and overall functions of your compu
 <details>  
   <summary>Intall Ubuntu Restricted Extras</summary>  
   <ul>  
-    <li>This enables support for a wide range of multimedia formats and proprietary tools like audio and video codecs, Adobe Flash Plugin, Unrar and GStreamer Plugins on your computer</li>  
-    <li><code>sudo apt install ubuntu-restricted-extras</code> + <code>enter</code> to install</li>
+    <li>This enables support for a wide range of multimedia formats and proprietary tools like audio and video codecs, Adobe Flash Plugin, Unrar and GStreamer Plugins on your computer</li>
+    <li><code>sudo apt install ubuntu-restricted-extras</code> + <code>enter</code> to install</li>  
+ </ul> 
 </details>  
 
 <details>  
   <summary>Activate Zorin Connect</summary>  
   <ul>  
-    <li>This app alloows you to co nnect your Zorin OS computer and an your Android phone for file sharing, clipboard sharing, SMS and call notifications, remote input and more</li>  
+    <li>This app alloows you to connect your Zorin OS computer to your Android phone for file sharing, clipboard sharing, remote input and more</li>  
     <li>Zorin Connect is already pre-installed</li>
     <li>On your Android device, download from <a href="https://play.google.com/store/apps/details?id=com.zorinos.zorin_connect">Playstore</li>
-</details> 
+  </ul> 
+</details>  
+
+<details>  
+  <summary>Install Windows App Support</summary>  
+  <ul>  
+    <li>This app lets you install and run various Windows applications directly on Zorin OS without needing a full Windows installation.</li>  
+    <li>open the Zorin Menu → System Tools → Windows App Support.</li>
+    <li>Click <strong>Install</strong></li>
+  </ul> 
+</details>  
+
+<details>  
+  <summary>Connect Your Online Accounts</summary>
+</details>  
+
+<details>  
+  <summary>Improve Battery Life</summary>  
+  <ul>   
+      <li>TLP is a power management tool designed to optimize battery life on laptops.</li>  
+      <li>code>sudo apt install tlp</code> + <code>enter</code> to install</li>  
+      <li>Restart your computer</li>
+ </ul> 
+</details>
 
 ## Tweaks & Customization  
 ## Install Apps & Packages  
