@@ -59,10 +59,17 @@ Settings to Improve performance, efficiency, and overall functions of your compu
 <details>  
   <summary>Intall Ubuntu Restricted Extras</summary>  
   <ul>  
-    <li>This enable support for a wide range of multimedia formats and proprietary tools like codecs, libraries and Plugins on your computer</li>  
+    <li>This enables support for a wide range of multimedia formats and proprietary tools like audio and video codecs, Adobe Flash Plugin, Unrar and GStreamer Plugins on your computer</li>  
     <li><code>sudo apt install ubuntu-restricted-extras</code> + <code>enter</code> to install</li>
 </details>  
 
+<details>  
+  <summary>Activate Zorin Connect</summary>  
+  <ul>  
+    <li>This app alloows you to co nnect your Zorin OS computer and an your Android phone for file sharing, clipboard sharing, SMS and call notifications, remote input and more</li>  
+    <li>Zorin Connect is already pre-installed</li>
+    <li>On your Android device, download from <a href="https://play.google.com/store/apps/details?id=com.zorinos.zorin_connect">Playstore</li>
+</details> 
 
 ## Tweaks & Customization  
 ## Install Apps & Packages  
