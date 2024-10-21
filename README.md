@@ -113,4 +113,12 @@ ZorinOS comes with a built-in Software Store and here are packages with beautifu
       <li>A fast, lightweight open-source browser with a focus on privacy and customization based on Firefox.</li>
       <li> <a href="https://zorin.com/os/download">Download</a></li>
     </ul> 
+</details>  
+
+<details>  
+  <summary>Keypunch</summary>  
+    <ul>   
+      <li>A fast, lightweight open-source browser with a focus on privacy and customization based on Firefox.</li>
+      <li> <a href="https://zorin.com/os/download">Download</a></li>
+    </ul> 
 </details>
