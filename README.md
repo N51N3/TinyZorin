@@ -3,7 +3,7 @@ I am an absolute Linux beginner, and this is a living document constantly update
 You're encouraged to do these three things;  
 - Make a [donation](https://selar.co/showlove/tinyzorin)
 - Send a [suggestion & Feedback](https://x.com/N51N3)
-- Start & Share this project
+- Star & Share this project
 
 ## Get Started  
 Do the following on your computer;
