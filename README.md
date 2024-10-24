@@ -120,7 +120,7 @@ ZorinOS comes with a built-in Software Store and here are packages with beautifu
 <details>  
   <summary>Obsidian</summary>  
     <ul>   
-      <li>A fast, lightweight open-source browser with a focus on privacy and customization based on Firefox.</li>
+      <li>A simple markdown note‑taking and knowledge management app</li>
       <li> <a href="https://zorin.com/os/download">Download</a></li>
     </ul> 
 </details>  
@@ -128,7 +128,7 @@ ZorinOS comes with a built-in Software Store and here are packages with beautifu
 <details>  
   <summary>Keypunch</summary>  
     <ul>   
-      <li>A fast, lightweight open-source browser with a focus on privacy and customization based on Firefox.</li>
+      <li>A minimal designed app that lets you practice typing</li>
       <li> <a href="https://zorin.com/os/download">Download</a></li>
     </ul> 
 </details>  
@@ -136,7 +136,8 @@ ZorinOS comes with a built-in Software Store and here are packages with beautifu
 <details>  
   <summary>Outline</summary>  
     <ul>   
-      <li>A fast, lightweight open-source browser with a focus on privacy and customization based on Firefox.</li>
-      <li> <a href="https://zorin.com/os/download">Download</a></li>
+      <li>A simple and reliable VPN app</li>
+      <li> <a href="https://zorin.com/os/download">Download</a> </li>
+      <li>Join this <a href="https://t.me/OutlineReleasedKey">Telegram group</a> to get a free access key</li>
     </ul> 
 </details>
