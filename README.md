@@ -106,6 +106,15 @@ Settings to Improve performance, efficiency, and overall functions of your compu
  </ul> 
 </details>  
 
+<details>  
+  <summary>Recommended Gnome Extensions</summary>  
+  <ul>   
+      <li>TLP is a power management tool designed to optimize the battery life on your laptop.</li>  
+      <li><code>sudo apt install tlp</code> + <code>enter</code> to install</li>  
+      <li>Restart your computer</li>
+ </ul> 
+</details>
+
 ## Install Apps & Packages  
 ZorinOS comes with a built-in Software Store and here are packages with beautiful UIs that I use and recommend;  
 <details>  
