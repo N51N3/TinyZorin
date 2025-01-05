@@ -45,12 +45,14 @@ After installation, update everything to the latest version through Zorin's GUI 
     <li>Restart your computer</li>
   </ul> 
 </details>  
-
+ 
 <details>  
-  <summary>Update Packages</summary> 
-</details> 
-<details>  
-  <summary>Update Drivers</summary> 
+  <summary>Update Drivers</summary>   
+  <ul>
+    <li>Open the <strong>Software Store and click on <strong>Main Menu</strong></li>  
+    <li>Click on <strong>System Respositories</strong></li>
+    <li>Click on <strong>Additional Drivers</strong> then <strong>Update</strong></li> 
+    </ul>
 </details>  
 
 ## System Optimization  
