@@ -2,7 +2,7 @@ I am an absolute Linux beginner, and this is a living document constantly update
 
 You're encouraged to do these two things;  
 - Follow this project on [Telegram](https://t.me/+eeX3S3cAm9A5ZDQ0)
-- Star & Share this project
+- Star & Share this repository
 
 ## Get Started  
 Do the following on your computer;
@@ -30,15 +30,16 @@ After installation, update everything to the latest version through Zorin's GUI 
 <details>  
   <summary>System Update</summary>  
   <ul>  
-    <li>Open the <strong>Software Store</strong> and click on <strong>Updates</strong>.</li> 
+    <li>Open the <strong>Software Store</strong> and click on <strong>Updates</strong> >> <strong>Update All</strong></li> 
     <li>Still on the same page, click on <strong>Main Menu</strong> >> <strong>System Respositories</strong> then turn on <strong>Canonical-supported free and open source software</strong>.</li>
-    <li>A pop-up will appear. Click <strong>Close</strong>.</li>
+    <li>A pop-up will appear. Click <strong>Close</strong></li>
   </ul>  
 </details>  
 
 <details>  
   <summary>Update Through <strong>Terminal</strong></summary>  
    <ul>  
+    <li>Open the Termimal app and paste the follow commands;</li>
     <li><code>sudo apt update</code> + <code>enter</code> to check for updates</li>
     <li><code>sudo apt upgrade</code> + <code>enter</code> to apply the updates</li> 
     <li>Restart your computer</li>
