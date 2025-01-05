@@ -1,8 +1,7 @@
 I am an absolute Linux beginner, and this is a living document constantly updated with the new things I've learnt and done on my freshly installed ZorinOS to guide other new beginners to improve their Linux Installation.
 
-You're encouraged to do these three things;  
-- Follow I the creator on [Twitter] (https://x.com/N51N3)
-- Follow the project on [Telegram} (https://x.com/N51N3)
+You're encouraged to do these two things;  
+- Follow this project on [Telegram](https://t.me/+eeX3S3cAm9A5ZDQ0)
 - Star & Share this project
 
 ## Get Started  
@@ -10,9 +9,9 @@ Do the following on your computer;
 
 <details>  
   <summary>Prerequisite</summary>  
-  <ul>   
-    <li>Backup your files in an external drive</li>  
-    <li>Check system requirements & hardware compatibility <a href="https://help.zorin.com/docs/getting-started/system-requirements">here.</a></li>  
+  <ul>
+    <li>Check system requirement & hardware compatibility <a href="https://help.zorin.com/docs/getting-started/system-requirements">here.</a></li>  
+    <li>Backup your files in an external drive</li>
   </ul>  
 </details>  
 
@@ -29,10 +28,10 @@ Do the following on your computer;
 After installation, update everything to the latest version through Zorin's GUI or copy the commands and run them in Terminal;  
 
 <details>  
-  <summary>Before Updating</summary>  
+  <summary>System Update</summary>  
   <ul>  
-    <li>Go into the Software Store and click on <strong>Software & Updates</strong>.</li>  
-    <li>Click on <strong>Other Software</strong> then turn on <strong>Canonical Partners</strong>.</li>
+    <li>Open the <strong>Software Store</strong> and click on <strong>Updates</strong>.</li> 
+    <li>Still on the same page, click on <strong>Main Menu</strong> >> <strong>System Respositories</strong> then turn on <strong>Canonical-supported free and open source software</strong>.</li>
     <li>A pop-up will appear. Click <strong>Close</strong>.</li>
   </ul>  
 </details>  
