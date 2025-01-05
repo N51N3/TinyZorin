@@ -148,4 +148,13 @@ ZorinOS comes with a built-in Software Store and here are packages with beautifu
       <li> <a href="https://zorin.com/os/download">Download</a> </li>
       <li>Join this <a href="https://t.me/OutlineReleasedKey">Telegram group</a> to get a free access key</li>
     </ul> 
+</details>  
+
+<details>  
+  <summary>Diodon</summary>  
+    <ul>   
+      <li>A simple clipboard manager</li>
+      <li> <a href="https://zorin.com/os/download">Download</a> </li>
+      <li>Join this <a href="https://t.me/OutlineReleasedKey">Telegram group</a> to get a free access key</li>
+    </ul> 
 </details>
