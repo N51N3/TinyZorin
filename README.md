@@ -39,9 +39,10 @@ After installation, update everything to the latest version through Zorin's GUI 
 <details>  
   <summary>Update Through <strong>Terminal</strong></summary>  
    <ul>  
-    <li>Open the Termimal app and paste the follow commands;</li>
+    <li>Open the Termimal app and paste these commands;</li>
     <li><code>sudo apt update</code> + <code>enter</code> to check for updates</li>
-    <li><code>sudo apt upgrade</code> + <code>enter</code> to apply the updates</li> 
+    <li><code>sudo apt upgrade</code> + <code>enter</code> to apply the updates</li>
+    <li><code>sudo ubuntu-drivers autoinstall</code> + <code>enter</code> Install proprietary drivers</li>
     <li>Restart your computer</li>
   </ul> 
 </details>  
@@ -54,6 +55,16 @@ After installation, update everything to the latest version through Zorin's GUI 
     <li>Click on <strong>Additional Drivers</strong> then <strong>Update</strong></li> 
     </ul>
 </details>  
+
+<details>  
+  <summary>Update GPU Driver(Intel/AMD)</summary>   
+  <ul>  
+    <li>Check if your laptop has the <strong>Mesa Intel® Xe Graphics (TGL GT2)</strong></li>  
+    <li>Open the Termimal app and paste this command to update it;</li>
+    <li><code>sudo apt update</code> + <code>enter</code> to check for updates</li>
+
+  </ul>
+</details>
 
 ## System Optimization  
 Settings to Improve performance, efficiency, and overall functions of your computer.  
