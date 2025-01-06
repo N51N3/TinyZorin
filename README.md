@@ -86,6 +86,7 @@ Settings to Improve performance, efficiency, and overall functions of your compu
 </details>
 
 ## Tweaks & Customization  
+Options settings to cutomise the look and feel of your ZorinOS installation
 
 <details>  
   <summary>Install Gnome Extensions</summary>
