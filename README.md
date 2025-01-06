@@ -5,7 +5,7 @@ You're encouraged to do these two things;
 - Star & Share this repository
 
 ## Get Started  
-Do the following on your computer;
+Do the following first on your computer;
 
 <details>  
   <summary>Prerequisite</summary>  
@@ -61,7 +61,7 @@ After installation, update everything to the latest version through Zorin's GUI 
   <ul>  
     <li>Check if your laptop has the <strong>Mesa Intel® Xe Graphics (TGL GT2)</strong></li>  
     <li>Open the Termimal app and paste this command to update it;</li>
-    <li><code>sudo apt update</code> + <code>enter</code> to check for updates</li>
+    <li><code>sudo apt install mesa-utils</code> + <code>enter</code> to check for updates</li>
 
   </ul>
 </details>
