@@ -103,7 +103,7 @@ ZorinOS comes with a built-in Software Store and here are packages with beautifu
   <summary>Floorp</summary>  
     <ul>   
       <li>A fast, lightweight open-source browser with a focus on privacy and customization based on Firefox.</li>
-      <li> <a href="https://zorin.com/os/download">Download</a></li>
+      <li>Download from the software store</li>k
     </ul> 
 </details>  
 
@@ -118,7 +118,7 @@ ZorinOS comes with a built-in Software Store and here are packages with beautifu
 <details>  
   <summary>Keypunch</summary>  
     <ul>   
-      <li>Download from the software store</li>
+      <li>A minimalist app to practise and improve your typing skills</li>
       <li>Download from the software store</li>
     </ul> 
 </details>  
