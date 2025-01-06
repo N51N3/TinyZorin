@@ -37,7 +37,7 @@ After installation, update everything to the latest version through Zorin's GUI 
 </details>  
 
 <details>  
-  <summary>Update Through <strong>Terminal</strong></summary>  
+  <summary>Update Through Terminal</summary>  
    <ul>  
     <li>Open the Termimal app and paste these commands;</li>
     <li><code>sudo apt update</code> + <code>enter</code> to check for updates</li>
@@ -62,7 +62,6 @@ After installation, update everything to the latest version through Zorin's GUI 
     <li>Check if your laptop has the <strong>Mesa Intel® Xe Graphics (TGL GT2)</strong></li>  
     <li>Open the Termimal app and paste this command to update it;</li>
     <li><code>sudo apt install mesa-utils</code> + <code>enter</code> to check for updates</li>
-
   </ul>
 </details>
 
