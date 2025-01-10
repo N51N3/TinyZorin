@@ -92,7 +92,7 @@ ZorinOS comes with a built-in Software Store and here are packages with beautifu
   <summary>Floorp</summary>  
     <ul>   
       <li>A fast, lightweight open-source browser with a focus on privacy and customization based on Firefox.</li>
-      <li>Download from the software store</li>k
+      <li>Download from the software store</li>
     </ul> 
 </details>  
 
