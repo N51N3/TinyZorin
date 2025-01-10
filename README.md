@@ -83,18 +83,7 @@ Settings to Improve performance, efficiency, and overall functions of your compu
       <li><code>sudo apt install tlp</code> + <code>enter</code> to install</li>  
       <li>Restart your computer</li>
  </ul> 
-</details>
-
-## Tweaks & Customization  
-Options settings to cutomise the look and feel of your ZorinOS installation
-
-<details>  
-  <summary>Install Gnome Extensions</summary>
 </details>  
-
-<details>  
-  <summary>Recommended Gnome Extensions</summary>
-</details>
 
 ## Install Apps & Packages  
 ZorinOS comes with a built-in Software Store and here are packages with beautiful UIs that I use and recommend;  
