@@ -97,7 +97,7 @@ ZorinOS comes with a built-in Software Store and here are packages with beautifu
 </details>  
 
 <details>  
-  <summary>Obsidian</summary>  
+  <summary>Notion</summary>  
     <ul>   
       <li>A simple markdown note‑taking and knowledge management app</li>
       <li>Download from the software store</li>
@@ -113,7 +113,7 @@ ZorinOS comes with a built-in Software Store and here are packages with beautifu
 </details>  
 
 <details>  
-  <summary>Outline</summary>  
+  <summary>Spotify</summary>  
     <ul>   
       <li>A simple and reliable VPN app</li>
       <li>Download from the software store</li>
