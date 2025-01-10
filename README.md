@@ -42,7 +42,7 @@ After installation, update everything to the latest version through Zorin's GUI 
     <li>Open the Termimal app and paste these commands;</li>
     <li><code>sudo apt update</code> + <code>enter</code> to check for updates</li>
     <li><code>sudo apt upgrade</code> + <code>enter</code> to apply the updates</li>
-    <li><code>sudo ubuntu-drivers autoinstall</code> + <code>enter</code> Install proprietary drivers</li>
+    <li><code>sudo ubuntu-drivers autoinstall</code> + <code>enter</code> to install proprietary drivers</li>
     <li>Restart your computer</li>
   </ul> 
 </details>  
@@ -50,7 +50,7 @@ After installation, update everything to the latest version through Zorin's GUI 
 <details>  
   <summary>Update Drivers</summary>   
   <ul>
-    <li>Open the <strong>Software Store and click on <strong>Main Menu</strong></li>  
+    <li>Open the <strong>Software Store</strong> and click on <strong>Main Menu</strong></li>  
     <li>Click on <strong>System Respositories</strong></li>
     <li>Click on <strong>Additional Drivers</strong> then <strong>Update</strong></li> 
     </ul>
