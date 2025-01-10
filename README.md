@@ -1,7 +1,7 @@
 I am an absolute Linux beginner, and this is a living document constantly updated with the new things I've learnt and done on my freshly installed ZorinOS to guide other new beginners to improve their Linux Installation.
 
 You're encouraged to do these two things;  
-- Follow this project on [Telegram](https://t.me/+eeX3S3cAm9A5ZDQ0)
+- Follow & share feedback for this project on [Telegram](https://t.me/+eeX3S3cAm9A5ZDQ0)
 - Star & Share this repository
 
 ## Get Started  
