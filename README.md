@@ -97,27 +97,10 @@ ZorinOS comes with a built-in Software Store and here are packages with beautifu
 </details>  
 
 <details>  
-  <summary>Notion</summary>  
-    <ul>   
-      <li>A simple markdown note‑taking and knowledge management app</li>
-      <li>Download from the software store</li>
-    </ul> 
-</details>  
-
-<details>  
   <summary>Keypunch</summary>  
     <ul>   
       <li>A minimalist app to practise and improve your typing skills</li>
       <li>Download from the software store</li>
-    </ul> 
-</details>  
-
-<details>  
-  <summary>Spotify</summary>  
-    <ul>   
-      <li>A simple and reliable VPN app</li>
-      <li>Download from the software store</li>
-      <li>Join this <a href="https://t.me/OutlineReleasedKey">Telegram group</a> to get a free access key</li>
     </ul> 
 </details>  
 
