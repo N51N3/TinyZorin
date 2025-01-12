@@ -2,7 +2,7 @@ I am an absolute Linux beginner, and this is a living document constantly update
 
 You're encouraged to do these two things;  
 - Follow & share feedback for this project on [Telegram](https://t.me/+eeX3S3cAm9A5ZDQ0)
-- Star & Share this repository
+- Star & share this project
 
 ## Get Started  
 Do the following first on your computer;
