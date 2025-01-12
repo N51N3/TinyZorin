@@ -110,4 +110,12 @@ ZorinOS comes with a built-in Software Store and here are packages with beautifu
       <li>A simple clipboard manager</li>
       <li>Download from the software store</li>
    </ul> 
+</details>  
+
+<details>  
+  <summary>OCRFeeder</summary>  
+    <ul>   
+      <li>An app that allows you copy text from images</li>
+      <li>Download from the software store</li>
+   </ul> 
 </details>
