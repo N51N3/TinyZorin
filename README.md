@@ -74,24 +74,15 @@ Settings to Improve performance, efficiency, and overall functions of your compu
     <li>This enables support for a wide range of multimedia formats and proprietary tools like audio and video codecs, Adobe Flash Plugin, Unrar and GStreamer Plugins on your computer</li>
     <li><code>sudo apt install ubuntu-restricted-extras</code> + <code>enter</code> to install</li>  
  </ul> 
-</details>
-
-<details>  
-  <summary>Improve Battery Life</summary>  
-  <ul>   
-      <li>TLP is a power management tool designed to optimize the battery life on your laptop.</li>  
-      <li><code>sudo apt install tlp</code> + <code>enter</code> to install</li>  
-      <li>Restart your computer</li>
- </ul> 
 </details>  
 
 ## Install Apps & Packages  
 ZorinOS comes with a built-in Software Store and here are packages with beautiful UIs that I use and recommend;  
 <details>  
   
-  <summary>Floorp</summary>  
+  <summary>Zen</summary>  
     <ul>   
-      <li>A fast, lightweight open-source browser with a focus on privacy and customization based on Firefox.</li>
+      <li>A minimalist, lightweight open-source browser based on FireFox with a vertical tab bar.</li>
       <li>Download from the software store</li>
     </ul> 
 </details>  
