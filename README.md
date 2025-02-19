@@ -76,6 +76,30 @@ Settings to Improve performance, efficiency, and overall functions of your compu
  </ul> 
 </details>  
 
+<details>  
+  <summary>Reduce Boot Time</summary>  
+  <ul>  
+    <li>This disables the network wait service, which can slow down boot times.</li>
+    <li><code>sudo systemctl disable NetworkManager-wait-online.service</code> + <code>enter</code> to install</li>  
+ </ul> 
+</details>
+
+<details>  
+  <summary>Enable zswap for Better RAM Management</summary>  
+  <ul>  
+    <li>This helps improve performance on systems with limited RAM</li>
+    <li><code>echo "zswap.enabled=1" | sudo tee -a /etc/default/grub && sudo update-grub</code> + <code>enter</code> to install</li>  
+ </ul> 
+</details>  
+
+<details>  
+  <summary>Enable Fractional Scaling (for High-DPI Displays):</summary>  
+  <ul>  
+    <li>This makes fonts and UI elements look sharper on high-resolution screens.</li>
+    <li>gsettings set org.gnome.mutter experimental-features "['scale-monitor-framebuffer']"</code> + <code>enter</code> to install</li>  
+ </ul> 
+</details> 
+
 ## Install Apps & Packages  
 ZorinOS comes with a built-in Software Store and here are packages with beautiful UIs that I use and recommend;  
 <details>  
