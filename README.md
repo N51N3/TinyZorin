@@ -3,6 +3,7 @@
 > **A clean and updated version of this document is published on my website:**
 >
 > **🌐 [https://n51n3.bearblog.dev/tinyzorin](https://n51n3.bearblog.dev/tinyzorin)**
+***
 
 I am an absolute Linux beginner, and this is a living document constantly updated with the new things I've learnt and done on my freshly installed ZorinOS to guide other new beginners to improve their Linux Installation.
 
